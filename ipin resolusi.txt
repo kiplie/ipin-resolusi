@@ -3,3 +3,5 @@ belajar web programing
 -react js
 -sql
 -phyton
+-raspberry 
+-gps
